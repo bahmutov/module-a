@@ -1,1 +1,1 @@
-throw new Error('module-a version 1.0.0 does not work!');
+console.log('module-a version 2.0.0 works');
